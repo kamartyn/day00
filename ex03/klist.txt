@@ -1,0 +1,7 @@
+Credentials cache: API:7405
+        Principal: kamartyn@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug 20 14:05:26 2018  Aug 21 00:06:08 2018  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
+Aug 20 14:05:28 2018  Aug 21 00:06:08 2018  ldap/ldap-master.21-school.ru@21-SCHOOL.RU
+Aug 20 14:05:28 2018  Aug 21 00:06:08 2018  HTTP/storage-student.21-school.ru@21-SCHOOL.RU
